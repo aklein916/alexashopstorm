@@ -66,7 +66,10 @@
 }
 
 #shopstorm {
+  text-align: center;
   text-decoration: none;
+  padding-left: 20%;
+  padding-right: 20%; 
   color: teal;
   padding: 60px;
   padding-top: 100px;
